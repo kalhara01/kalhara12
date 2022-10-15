@@ -43,7 +43,7 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94781518744']
+global.owner = ['0781518744']
 global.ownertag = '0781518744' //ur tag number
 global.botnumber = '94752019471' //Add your Bot Number For Log
 global.botname = '𝙈𝘼𝙎𝙏𝙀𝙍 𝘽𝙊𝙏' //ur bot name
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94781518744'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
